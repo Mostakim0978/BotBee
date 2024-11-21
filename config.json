@@ -19,7 +19,7 @@
   "botOperator": [
     6070239497
   ],
-  "inbox": true,
+  "inbox": false,
   "white_list_group": {
     "enable": true,
     "groups": [
