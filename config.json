@@ -21,7 +21,7 @@
   ],
   "inbox": true,
   "white_list_group": {
-    "enable": false,
+    "enable": true,
     "groups": [
       -1001234567890
     ]
