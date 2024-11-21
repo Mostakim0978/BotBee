@@ -1,7 +1,7 @@
 {
-  "owner": "Dip To",
+  "owner": "𝐌𝐨𝐬𝐭𝐚𝐤𝐢𝐦",
   "fb_ID":"https://www.facebook.com/starboy.mostakim?mibextid=ZbWKwL",
-  "adminName": "Dip To",
+  "adminName": "𝐌𝐨𝐬𝐭𝐚𝐤𝐢𝐦",
   "botName": "Your Baby",
   "token": "7501479223:AAHxGziNyOV-876OQV3ickmoEE8cynTNqEo",
 "mongodbURI":"mongodb+srv://asifsarker7036:cq9M2Yh8FTI3VdTq@cluster0.ggdoal4.mongodb.net/Mostakim-GoatBot?retryWrites=true&w=majority",
@@ -21,7 +21,7 @@
   ],
   "inbox": true,
   "white_list_group": {
-    "enable": true,
+    "enable": false,
     "groups": [
       -1001234567890
     ]
